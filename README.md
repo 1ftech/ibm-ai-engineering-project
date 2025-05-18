@@ -1,4 +1,4 @@
-# 🧠 IBM AI Engineering Professional Certificate
+# 🧠 IBM (GEN) AI Engineering Professional Certificate
 
 This repository contains my completed coursework, notes, and project materials from the **IBM AI Engineering Professional Certificate**, a 13-course specialization offered by IBM on Coursera.
 
