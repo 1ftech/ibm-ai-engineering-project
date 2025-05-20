@@ -28,14 +28,14 @@ The **IBM AI Engineering Professional Certificate** is designed for professional
 
 ## 🛠️ Skills Acquired
 
-- Supervised & Unsupervised Learning
-- Regression, Classification, Clustering
-- Neural Networks (ANN, CNN, RNN, LSTM)
-- Deep Learning with PyTorch & TensorFlow
-- LLM, LangChain, Gen AI
-- Data Preprocessing, Feature Engineering
-- Model Evaluation & Optimization
-- End-to-end AI Project Execution
+- Supervised & Unsupervised Learning.
+- Regression, Classification, Clustering.
+- Neural Networks (ANN, CNN, RNN, LSTM).
+- Deep Learning with PyTorch & TensorFlow.
+- LLM, LangChain, Gen AI.
+- Data Preprocessing, Feature Engineering.
+- Model Evaluation & Optimization.
+- End-to-end AI Project Execution.
 
 ---
 
